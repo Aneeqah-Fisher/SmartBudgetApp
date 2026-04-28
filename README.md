@@ -26,11 +26,9 @@ It allows users to track expenses, set budget goals, and analyse spending patter
 2. Open in Android Studio
 3. Run on emulator or Android device
 
-## Demo Video
-[Paste your YouTube link here]
 
 ## APK
 APK file included in repository
 
 ## Author
-[Your Name]
+Aneeqah Fisher
