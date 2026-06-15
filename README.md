@@ -211,7 +211,24 @@ GitHub Actions was implemented to:
 This ensures the application can build successfully on environments other than the developer machine.
 
 ---
+# Screenshots
 
+1. Login Screen <img width="372" height="785" alt="image" src="https://github.com/user-attachments/assets/3b8e5473-d7ba-45fe-9049-55a5044d7981" />
+
+2. Dashboard <img width="376" height="780" alt="image" src="https://github.com/user-attachments/assets/2bf3e597-59bf-4505-be95-6671feab2348" />
+
+3. Add Expense Screen <img width="378" height="777" alt="image" src="https://github.com/user-attachments/assets/780e46be-0f11-48b2-b40c-8c90fed3fdb9" />
+
+4. Goals Screen <img width="342" height="291" alt="image" src="https://github.com/user-attachments/assets/71e0af8e-cf4d-4863-b377-bbb10ee4617b" />
+
+5. Graph Screen <img width="372" height="448" alt="image" src="https://github.com/user-attachments/assets/f6ea3c4b-ebcb-495a-9469-345a2090546c" />
+
+6. Savings Tracker <img width="367" height="372" alt="image" src="https://github.com/user-attachments/assets/735582d2-cfdd-4641-a9d6-83d6a8f93b31" />
+
+7. Gamification Badges <img width="372" height="783" alt="image" src="https://github.com/user-attachments/assets/04edc60a-c3b0-4350-a543-0b26009bcd88" />
+
+
+---
 
 # APK
 
@@ -226,6 +243,17 @@ Video Link:
 
 
 ---
+
+# How to Run
+
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Sync Gradle files.
+4. Build the project.
+5. Run on an Android device.
+
+---
+
 
 
 # References
